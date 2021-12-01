@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+<<<<<<< HEAD
 #include "tokenizer.h"
 #include "history.h"
 
@@ -46,3 +47,11 @@ int main()
       }
   }
 }
+=======
+
+
+int main()
+{
+  char userInput[100];
+  
+>>>>>>> 3e08ab78ba980b5f16a465a8a83dd93aa32f3b6a
